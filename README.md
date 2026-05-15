@@ -1,6 +1,6 @@
-# 🚀 Free Project: Ecosistema Digital Integrat
+# 🚀 Free Project
 
-Benvingut al meu repositori personal on recullo el desenvolupament del **Projecte Intermodular**. Aquesta iniciativa uneix la gestió empresarial, el desenvolupament de programari, la infraestructura de sistemes i el màrqueting digital en una única solució.
+Benvingut al meu repositori personal on recullo el desenvolupament del **Free project**. Aquesta iniciativa uneix la gestió empresarial, el desenvolupament de programari, la infraestructura de sistemes i el màrqueting digital en una única solució.
 
 ---
 
